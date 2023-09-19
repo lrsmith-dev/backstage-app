@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: lrsmith-devcorp
+  description: lrsmith Dev Corp 
+spec:
+  type: organization
+  profile:
+    displayName: lrsmith Dev Corp
+    email: contact@lrsmith.dev
+  children: []
